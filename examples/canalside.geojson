@@ -1,0 +1,2858 @@
+{
+  "type": "FeatureCollection",
+  "name": "Canalside · fictional example",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            -0.0053898670499461015
+          ],
+          [
+            -0.004042400287459576,
+            -0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            -0.0053898670499461015
+          ],
+          [
+            -0.0053898670499461015,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            -0.0053898670499461015
+          ],
+          [
+            -0.0026949335249730508,
+            -0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            -0.0053898670499461015
+          ],
+          [
+            -0.004042400287459576,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            -0.0053898670499461015
+          ],
+          [
+            -0.0013474667624865254,
+            -0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            -0.0053898670499461015
+          ],
+          [
+            -0.0026949335249730508,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            -0.0053898670499461015
+          ],
+          [
+            0,
+            -0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            -0.0053898670499461015
+          ],
+          [
+            -0.0013474667624865254,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -0.0053898670499461015
+          ],
+          [
+            0,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            -0.0053898670499461015
+          ],
+          [
+            0.0026949335249730508,
+            -0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            -0.0053898670499461015
+          ],
+          [
+            0.0013474667624865254,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            -0.0053898670499461015
+          ],
+          [
+            0.004042400287459576,
+            -0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            -0.0053898670499461015
+          ],
+          [
+            0.0026949335249730508,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            -0.0053898670499461015
+          ],
+          [
+            0.0053898670499461015,
+            -0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            -0.0053898670499461015
+          ],
+          [
+            0.004042400287459576,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0053898670499461015,
+            -0.0053898670499461015
+          ],
+          [
+            0.0053898670499461015,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            -0.004042400287459576
+          ],
+          [
+            -0.004042400287459576,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            -0.004042400287459576
+          ],
+          [
+            -0.0053898670499461015,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            -0.004042400287459576
+          ],
+          [
+            -0.0026949335249730508,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            -0.004042400287459576
+          ],
+          [
+            -0.004042400287459576,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            -0.004042400287459576
+          ],
+          [
+            -0.0013474667624865254,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            -0.004042400287459576
+          ],
+          [
+            -0.0026949335249730508,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            -0.004042400287459576
+          ],
+          [
+            0,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            -0.004042400287459576
+          ],
+          [
+            -0.0013474667624865254,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -0.004042400287459576
+          ],
+          [
+            0,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            -0.004042400287459576
+          ],
+          [
+            0.0026949335249730508,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            -0.004042400287459576
+          ],
+          [
+            0.0013474667624865254,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            -0.004042400287459576
+          ],
+          [
+            0.004042400287459576,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            -0.004042400287459576
+          ],
+          [
+            0.0026949335249730508,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            -0.004042400287459576
+          ],
+          [
+            0.0053898670499461015,
+            -0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            -0.004042400287459576
+          ],
+          [
+            0.004042400287459576,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0053898670499461015,
+            -0.004042400287459576
+          ],
+          [
+            0.0053898670499461015,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            -0.0026949335249730508
+          ],
+          [
+            -0.004042400287459576,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            -0.0026949335249730508
+          ],
+          [
+            -0.0053898670499461015,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            -0.0026949335249730508
+          ],
+          [
+            -0.0026949335249730508,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            -0.0026949335249730508
+          ],
+          [
+            -0.004042400287459576,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            -0.0026949335249730508
+          ],
+          [
+            -0.0013474667624865254,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            -0.0026949335249730508
+          ],
+          [
+            -0.0026949335249730508,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            -0.0026949335249730508
+          ],
+          [
+            0,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            -0.0026949335249730508
+          ],
+          [
+            -0.0013474667624865254,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canal bridge",
+        "accessible": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -0.0026949335249730508
+          ],
+          [
+            0.0013474667624865254,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -0.0026949335249730508
+          ],
+          [
+            0,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            -0.0026949335249730508
+          ],
+          [
+            0.0026949335249730508,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            -0.0026949335249730508
+          ],
+          [
+            0.0013474667624865254,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            -0.0026949335249730508
+          ],
+          [
+            0.004042400287459576,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            -0.0026949335249730508
+          ],
+          [
+            0.0026949335249730508,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            -0.0026949335249730508
+          ],
+          [
+            0.0053898670499461015,
+            -0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            -0.0026949335249730508
+          ],
+          [
+            0.004042400287459576,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0053898670499461015,
+            -0.0026949335249730508
+          ],
+          [
+            0.0053898670499461015,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            -0.0013474667624865254
+          ],
+          [
+            -0.004042400287459576,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            -0.0013474667624865254
+          ],
+          [
+            -0.0053898670499461015,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            -0.0013474667624865254
+          ],
+          [
+            -0.0026949335249730508,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            -0.0013474667624865254
+          ],
+          [
+            -0.004042400287459576,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            -0.0013474667624865254
+          ],
+          [
+            -0.0013474667624865254,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            -0.0013474667624865254
+          ],
+          [
+            -0.0026949335249730508,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            -0.0013474667624865254
+          ],
+          [
+            0,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            -0.0013474667624865254
+          ],
+          [
+            -0.0013474667624865254,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -0.0013474667624865254
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            -0.0013474667624865254
+          ],
+          [
+            0.0026949335249730508,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            -0.0013474667624865254
+          ],
+          [
+            0.0013474667624865254,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            -0.0013474667624865254
+          ],
+          [
+            0.004042400287459576,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            -0.0013474667624865254
+          ],
+          [
+            0.0026949335249730508,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            -0.0013474667624865254
+          ],
+          [
+            0.0053898670499461015,
+            -0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            -0.0013474667624865254
+          ],
+          [
+            0.004042400287459576,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0053898670499461015,
+            -0.0013474667624865254
+          ],
+          [
+            0.0053898670499461015,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            0
+          ],
+          [
+            -0.004042400287459576,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            0
+          ],
+          [
+            -0.0053898670499461015,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            0
+          ],
+          [
+            -0.0026949335249730508,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            0
+          ],
+          [
+            -0.004042400287459576,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            0
+          ],
+          [
+            -0.0013474667624865254,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            0
+          ],
+          [
+            -0.0026949335249730508,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            0
+          ],
+          [
+            -0.0013474667624865254,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            0
+          ],
+          [
+            0.0026949335249730508,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            0
+          ],
+          [
+            0.0013474667624865254,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            0
+          ],
+          [
+            0.004042400287459576,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            0
+          ],
+          [
+            0.0026949335249730508,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            0
+          ],
+          [
+            0.0053898670499461015,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            0
+          ],
+          [
+            0.004042400287459576,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0053898670499461015,
+            0
+          ],
+          [
+            0.0053898670499461015,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            0.0013474667624865254
+          ],
+          [
+            -0.004042400287459576,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            0.0013474667624865254
+          ],
+          [
+            -0.0053898670499461015,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            0.0013474667624865254
+          ],
+          [
+            -0.0026949335249730508,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            0.0013474667624865254
+          ],
+          [
+            -0.004042400287459576,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            0.0013474667624865254
+          ],
+          [
+            -0.0013474667624865254,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            0.0013474667624865254
+          ],
+          [
+            -0.0026949335249730508,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            0.0013474667624865254
+          ],
+          [
+            0,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            0.0013474667624865254
+          ],
+          [
+            -0.0013474667624865254,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0.0013474667624865254
+          ],
+          [
+            0,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            0.0013474667624865254
+          ],
+          [
+            0.0026949335249730508,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            0.0013474667624865254
+          ],
+          [
+            0.0013474667624865254,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            0.0013474667624865254
+          ],
+          [
+            0.004042400287459576,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            0.0013474667624865254
+          ],
+          [
+            0.0026949335249730508,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            0.0013474667624865254
+          ],
+          [
+            0.0053898670499461015,
+            0.0013474667624865254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            0.0013474667624865254
+          ],
+          [
+            0.004042400287459576,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0053898670499461015,
+            0.0013474667624865254
+          ],
+          [
+            0.0053898670499461015,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            0.0026949335249730508
+          ],
+          [
+            -0.004042400287459576,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            0.0026949335249730508
+          ],
+          [
+            -0.0053898670499461015,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            0.0026949335249730508
+          ],
+          [
+            -0.0026949335249730508,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            0.0026949335249730508
+          ],
+          [
+            -0.004042400287459576,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            0.0026949335249730508
+          ],
+          [
+            -0.0013474667624865254,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            0.0026949335249730508
+          ],
+          [
+            -0.0026949335249730508,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            0.0026949335249730508
+          ],
+          [
+            0,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            0.0026949335249730508
+          ],
+          [
+            -0.0013474667624865254,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canal bridge",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0.0026949335249730508
+          ],
+          [
+            0.0013474667624865254,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0.0026949335249730508
+          ],
+          [
+            0,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            0.0026949335249730508
+          ],
+          [
+            0.0026949335249730508,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            0.0026949335249730508
+          ],
+          [
+            0.0013474667624865254,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            0.0026949335249730508
+          ],
+          [
+            0.004042400287459576,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            0.0026949335249730508
+          ],
+          [
+            0.0026949335249730508,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            0.0026949335249730508
+          ],
+          [
+            0.0053898670499461015,
+            0.0026949335249730508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            0.0026949335249730508
+          ],
+          [
+            0.004042400287459576,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0053898670499461015,
+            0.0026949335249730508
+          ],
+          [
+            0.0053898670499461015,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            0.004042400287459576
+          ],
+          [
+            -0.004042400287459576,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            0.004042400287459576
+          ],
+          [
+            -0.0053898670499461015,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            0.004042400287459576
+          ],
+          [
+            -0.0026949335249730508,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            0.004042400287459576
+          ],
+          [
+            -0.004042400287459576,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            0.004042400287459576
+          ],
+          [
+            -0.0013474667624865254,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            0.004042400287459576
+          ],
+          [
+            -0.0026949335249730508,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            0.004042400287459576
+          ],
+          [
+            0,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            0.004042400287459576
+          ],
+          [
+            -0.0013474667624865254,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0.004042400287459576
+          ],
+          [
+            0,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            0.004042400287459576
+          ],
+          [
+            0.0026949335249730508,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            0.004042400287459576
+          ],
+          [
+            0.0013474667624865254,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            0.004042400287459576
+          ],
+          [
+            0.004042400287459576,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            0.004042400287459576
+          ],
+          [
+            0.0026949335249730508,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            0.004042400287459576
+          ],
+          [
+            0.0053898670499461015,
+            0.004042400287459576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            0.004042400287459576
+          ],
+          [
+            0.004042400287459576,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North–south path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0053898670499461015,
+            0.004042400287459576
+          ],
+          [
+            0.0053898670499461015,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0053898670499461015,
+            0.0053898670499461015
+          ],
+          [
+            -0.004042400287459576,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.004042400287459576,
+            0.0053898670499461015
+          ],
+          [
+            -0.0026949335249730508,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0026949335249730508,
+            0.0053898670499461015
+          ],
+          [
+            -0.0013474667624865254,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0013474667624865254,
+            0.0053898670499461015
+          ],
+          [
+            0,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0013474667624865254,
+            0.0053898670499461015
+          ],
+          [
+            0.0026949335249730508,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0026949335249730508,
+            0.0053898670499461015
+          ],
+          [
+            0.004042400287459576,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neighbourhood path",
+        "accessible": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.004042400287459576,
+            0.0053898670499461015
+          ],
+          [
+            0.0053898670499461015,
+            0.0053898670499461015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Transit hub",
+        "category": "Transport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0026949335249730508,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary school",
+        "category": "Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.004042400287459576,
+          0.0026949335249730508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community clinic",
+        "category": "Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0026949335249730508,
+          0.0013474667624865254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverside park",
+        "category": "Green space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0013474667624865254,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Library",
+        "category": "Culture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0013474667624865254,
+          -0.0026949335249730508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Food market",
+        "category": "Shops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.004042400287459576,
+          -0.0013474667624865254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sports centre",
+        "category": "Leisure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0026949335249730508,
+          0.004042400287459576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Town square",
+        "category": "Public space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0026949335249730508,
+          -0.004042400287459576
+        ]
+      }
+    }
+  ]
+}

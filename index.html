@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="Explore walking access along a street network, test closures and import your own GeoJSON."
+    />
+    <title>WalkingIndex · Network accessibility explorer</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <a class="brand" href="./"
+        ><span class="brand-mark">W<span>↗</span></span
+        ><span>WalkingIndex<small>URBAN ACCESSIBILITY LAB</small></span></a
+      >
+      <nav>
+        <a href="https://github.com/alisammarraie/walkingindex"
+          >View source ↗</a
+        ><button id="import" class="primary">Import GeoJSON ＋</button>
+      </nav>
+    </header>
+    <main>
+      <aside>
+        <span class="eyebrow">PLACES WITHIN REACH</span>
+        <h1>Walk the network.<br />See the difference.</h1>
+        <p class="intro">
+          A nearby place can still be a long walk. Explore access along paths,
+          bridges and connections.
+        </p>
+        <section>
+          <div class="step">
+            01
+            <h2>Your starting point</h2>
+          </div>
+          <label for="origin">Origin junction</label
+          ><select id="origin"></select>
+          <p class="help">Or choose a small junction on the map.</p>
+        </section>
+        <section>
+          <div class="step">
+            02
+            <h2>Your walking budget</h2>
+          </div>
+          <label for="minutes" class="range-label"
+            >Time available <strong id="timeLabel">10 minutes</strong></label
+          ><input id="minutes" type="range" min="1" max="30" value="10" />
+          <div class="range-ends"><span>1 min</span><span>30 min</span></div>
+          <label for="speed">Walking speed · km/h</label
+          ><input
+            id="speed"
+            type="number"
+            min="0.5"
+            max="12"
+            step="0.1"
+            value="4.8"
+          /><label class="check"
+            ><input id="accessible" type="checkbox" /> Exclude paths marked
+            inaccessible</label
+          >
+          <p class="help">
+            This uses the file’s path flags. It does not assess real-world
+            accessibility.
+          </p>
+        </section>
+        <section>
+          <div class="step">
+            03
+            <h2>Test a disruption</h2>
+          </div>
+          <p class="help">
+            Click a path to close or reopen it. Try closing a bridge and watch
+            destinations move out of reach.
+          </p>
+          <div class="closure-row">
+            <span id="closureCount">0 scenario closures</span
+            ><button id="clear" class="text-button">Reset closures ↺</button>
+          </div>
+        </section>
+        <div class="note">
+          <span>i</span>
+          <p>
+            Fictional town, real routing logic. Distances follow the network.
+            The faint circle shows the equivalent straight-line budget for
+            comparison.
+          </p>
+        </div>
+        <button id="sample" class="secondary full">
+          Download example map ↓
+        </button>
+        <p id="error" role="alert"></p>
+      </aside>
+      <article>
+        <div class="heading">
+          <div>
+            <span class="eyebrow">NETWORK EXPLORER</span>
+            <h2 id="networkName">Canalside · fictional example</h2>
+            <p id="networkInfo"></p>
+          </div>
+          <button id="demo" class="secondary">Restore demo ↺</button>
+        </div>
+        <div class="metrics">
+          <div>
+            <span>Destinations in reach</span><strong id="reachable">—</strong
+            ><small id="placesTotal"></small>
+          </div>
+          <div>
+            <span>Reachable path length</span
+            ><strong><span id="length">—</span><em> km</em></strong
+            ><small id="budget"></small>
+          </div>
+          <div class="metric-explainer">
+            <span class="pulse"></span>
+            <p>
+              Network distance<br /><strong>Every connection counts.</strong>
+            </p>
+          </div>
+        </div>
+        <div class="map-wrap">
+          <div class="map-tag">
+            <span class="pulse"></span> FICTIONAL DEMONSTRATION NETWORK
+          </div>
+          <svg
+            id="map"
+            viewBox="0 0 980 710"
+            role="group"
+            aria-label="Interactive walking network. Select a junction to set the origin, or a path to toggle a closure."
+          ></svg>
+          <div class="legend">
+            <span><i class="green"></i>Reachable path</span
+            ><span><i class="grey"></i>Outside budget</span
+            ><span><i class="red"></i>Closed path</span
+            ><span><i class="gold"></i>Starting point</span>
+          </div>
+        </div>
+        <div class="below">
+          <section class="places">
+            <div class="section-title">
+              <h3>Your destinations</h3>
+              <button id="export" class="text-button">
+                Export results CSV ↓
+              </button>
+            </div>
+            <ul id="destinations"></ul>
+          </section>
+          <section class="method">
+            <span class="eyebrow">HOW TO READ THIS</span>
+            <h3>Access is a connection.</h3>
+            <p>
+              Shortest paths are calculated from your selected junction. The
+              green paths include the reachable part of a segment, even when its
+              far end lies beyond your time budget.
+            </p>
+            <p id="notice"></p>
+            <p>
+              Destination points attach to the nearest path vertex within 100 m.
+              The connector distance is included; its physical accessibility is
+              not verified.
+            </p>
+            <a
+              href="https://github.com/alisammarraie/walkingindex#method-and-limits"
+              >Method & limitations ↗</a
+            >
+          </section>
+        </div>
+        <footer>
+          Independent educational prototype · Local file processing · No account
+          required
+        </footer>
+      </article>
+    </main>
+    <input id="file" type="file" accept=".geojson,.json" hidden />
+    <script type="module" src="src/app.mjs"></script>
+  </body>
+</html>
